@@ -29,7 +29,7 @@ public class StudentList {
             Student student = new Student(name);            
             students[i] = student;                   
         }
-
+        //123456
         String format = "Student name is %s\n";
         
         for (Student student: students) {
